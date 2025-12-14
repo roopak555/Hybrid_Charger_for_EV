@@ -53,12 +53,6 @@ The MATLAB Simulink analysis validated the following performance metrics:
 
 ---
 
-## 🚀 Hardware Implementation (Phase 2)
-The project is currently transitioning to the hardware prototyping phase with the following specifications:
-* **Controller:** ESP32 Microcontroller.
-* **Power Rating:** 300W Prototype.
-* **System Voltage:** 24V DC Bus.
-* **Objective:** To validate the control logic (MPPT and Source Switching) on a physical test bench.
 
 ---
 
@@ -70,4 +64,4 @@ The project is currently transitioning to the hardware prototyping phase with th
 ---
 
 ### 📜 License
-This project is open-source and available under the MIT License.
+This project is open-source 
